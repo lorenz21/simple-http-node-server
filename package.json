@@ -1,0 +1,24 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "simple http node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenz21/simple-http-node-server.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "http"
+  ],
+  "author": "Steve Lorenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenz21/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/lorenz21/simple-http-node-server#readme"
+}
